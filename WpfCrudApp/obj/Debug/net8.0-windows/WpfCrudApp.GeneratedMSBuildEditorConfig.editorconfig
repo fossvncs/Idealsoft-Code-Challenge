@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WpfCrudApp
-build_property.ProjectDir = C:\Users\vinic\source\repos\Idealsoft Code Test\WpfCrudApp\
+build_property.ProjectDir = C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

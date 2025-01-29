@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "itJqtG9RjZMWKu7bk+3/aXEvX53TbF0Cw64KO82hqCX8c7U/OF0GVPeEz+E8o2zB9Tvq+NwH/blGeD93v3bRuw==",
+  "dgSpecHash": "KjsRT6gLIA+1pTBz2o8hBo6TuiZVXOPkzN1zBfeDGLVTmPWIcmoVrshnbw8faTfhLJ+eNMVg1bX8nsEKEZRWTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinic\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

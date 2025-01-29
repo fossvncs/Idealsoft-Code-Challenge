@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infrastructure
-build_property.ProjectDir = C:\Users\vinic\source\repos\Idealsoft Code Test\Infrastructure\
+build_property.ProjectDir = C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -10,12 +10,16 @@
 
   <ItemGroup>
     <Compile Remove="NovaPasta1\**" />
+    <Compile Remove="NovaPasta2\**" />
     <Compile Remove="NovaPasta\**" />
     <EmbeddedResource Remove="NovaPasta1\**" />
+    <EmbeddedResource Remove="NovaPasta2\**" />
     <EmbeddedResource Remove="NovaPasta\**" />
     <None Remove="NovaPasta1\**" />
+    <None Remove="NovaPasta2\**" />
     <None Remove="NovaPasta\**" />
     <Page Remove="NovaPasta1\**" />
+    <Page Remove="NovaPasta2\**" />
     <Page Remove="NovaPasta\**" />
   </ItemGroup>
 
@@ -24,6 +28,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="5.2.1" />
+    <PackageReference Include="MaterialDesignThemes.MahApps" Version="5.2.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 

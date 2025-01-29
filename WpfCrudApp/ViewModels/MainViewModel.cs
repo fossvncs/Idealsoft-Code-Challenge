@@ -59,5 +59,10 @@ namespace WpfCrudApp.ViewModels
         {
             await _httpClient.DeleteAsync($"DeleteUserById?id={user.Id}");
         }
+
+        public async Task CreateUser(User user)
+        {
+
+        }
     }
 }

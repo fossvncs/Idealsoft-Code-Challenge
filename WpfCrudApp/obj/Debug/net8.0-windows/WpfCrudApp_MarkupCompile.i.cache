@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\vinic\source\repos\Idealsoft Code Test\WpfCrudApp\obj\Debug\net8.0-windows\
+C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\
 WpfCrudApp
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\vinic\source\repos\Idealsoft Code Test\WpfCrudApp\App.xaml
+C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\App.xaml
 4888407333
 
 10-613128287
-346249153053
+352909440616
 CreateUserWindow.xaml;DeleteUserWindow.xaml;EditUserWindow.xaml;MainWindow.xaml;
 
-False
+True
 

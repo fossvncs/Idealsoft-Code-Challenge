@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5NL8fkEuwOd53drNb01RdqEg4gG+hScx67xcZNp2avaCc3XTGtcS6gAcqieZlsP+OJPI21QTwAzzhWkmqQg9A==",
+  "dgSpecHash": "l4YgfMnYXKltq54B8YjuX469WJIBMGnX7/vQX4QPr9zFmziNqW9pm7po0keVcxTXkjX7hwa87221ZLPGmj52jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

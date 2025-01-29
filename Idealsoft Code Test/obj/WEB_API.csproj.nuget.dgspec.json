@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Idealsoft Code Test\\WEB_API.csproj": {}
+    "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\WEB_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Application\\Application.csproj": {
+    "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Application\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Domain\\Domain.csproj"
+              "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Domain\\Domain.csproj": {
+    "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Idealsoft Code Test\\WEB_API.csproj": {
+    "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\WEB_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Idealsoft Code Test\\WEB_API.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\WEB_API.csproj",
         "projectName": "WEB_API",
-        "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Idealsoft Code Test\\WEB_API.csproj",
+        "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\WEB_API.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Idealsoft Code Test\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +155,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Application\\Application.csproj"
+              "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Application\\Application.csproj"
               }
             }
           }
@@ -204,14 +204,14 @@
         }
       }
     },
-    "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -228,8 +228,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft Code Test\\Domain\\Domain.csproj"
+              "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\Domain.csproj"
               }
             }
           }
