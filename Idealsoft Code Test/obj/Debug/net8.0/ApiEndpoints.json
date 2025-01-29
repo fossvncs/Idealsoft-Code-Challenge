@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Idealsoft_Code_Test.Controllers.UserController",
+    "Method": "Post",
+    "RelativePath": "api/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Domain.Entities.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Idealsoft_Code_Test.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "api/DeleteUserById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Idealsoft_Code_Test.Controllers.UserController",
+    "Method": "GetUserById",
+    "RelativePath": "api/GetUserById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Idealsoft_Code_Test.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/GetUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Idealsoft_Code_Test.Controllers.UserController",
+    "Method": "Put",
+    "RelativePath": "api/UpdateUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Domain.Entities.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

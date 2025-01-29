@@ -1,0 +1,6 @@
+@Idealsoft_Code_Test_HostAddress = http://localhost:5149
+
+GET {{Idealsoft_Code_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

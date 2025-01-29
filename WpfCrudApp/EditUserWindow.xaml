@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfCrudApp.EditUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterOwner"
+        Title="Edit User" Height="300" Width="400">
+
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Name" />
+            <TextBox Text="{Binding User.Name}" />
+
+            <TextBlock Text="Surname" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding User.Surname}" />
+
+            <TextBlock Text="Phone" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding User.Phone}" />
+
+            <!-- Botões (ocupam a última linha) -->
+            <StackPanel Grid.Row="6" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5 20">
+                <Button Content="Create" Width="80" Height="35" Margin="5" Cursor="Hand" Click="EditButton_Click" Background="LightGreen" Foreground="Black" BorderBrush="Gray" BorderThickness="1" />
+                <Button Content="Cancel" Width="80" Height="35" Margin="5" Cursor="Hand" Click="CancelButton_Click" Background="Red" Foreground="White" BorderBrush="Gray" BorderThickness="1"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

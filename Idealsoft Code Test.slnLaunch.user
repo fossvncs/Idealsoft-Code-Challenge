@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Name": "Idealsoft Code Test\\WEB_API.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "WpfCrudApp\\WpfCrudApp.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      }
+    ]
+  }
+]
