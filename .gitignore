@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio for Mac
+.vscode/
+
+# ASP.NET
+/bin/
+obj/
+
+# NPM packages
+/node_modules/
+
+# Rider
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
