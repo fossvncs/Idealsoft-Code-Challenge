@@ -56,10 +56,10 @@ C:\Users\vinic\source\repos\Idealsoft Code Test\WpfCrudApp\obj\Debug\net8.0-wind
 C:\Users\vinic\source\repos\Idealsoft Code Test\WpfCrudApp\obj\Debug\net8.0-windows\WpfCrudApp.pdb
 C:\Users\vinic\source\repos\Idealsoft Code Test\WpfCrudApp\obj\Debug\net8.0-windows\WpfCrudApp.genruntimeconfig.cache
 C:\Users\vinic\source\repos\Idealsoft Code Test\WpfCrudApp\obj\Debug\net8.0-windows\ref\WpfCrudApp.dll
-C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\appsettings.Development.json
-C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\appsettings.json
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\WEB_API.deps.json
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\WEB_API.runtimeconfig.json
+C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\appsettings.json
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\WEB_API.exe
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\WpfCrudApp.exe
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\WpfCrudApp.deps.json
@@ -102,6 +102,7 @@ C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\WpfCrudApp_MarkupCompile.cache
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\WpfCrudApp_MarkupCompile.lref
+C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\App.baml
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\WpfCrudApp.g.resources
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\WpfCrudApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -115,10 +116,3 @@ C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\WpfCrudApp.pdb
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\WpfCrudApp.genruntimeconfig.cache
 C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\ref\WpfCrudApp.dll
-C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\obj\Debug\net8.0-windows\App.baml
-C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\ControlzEx.dll
-C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\MahApps.Metro.dll
-C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
-C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
-C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\MaterialDesignThemes.MahApps.dll
-C:\Users\vinic\source\repos\Idealsoft-Code-Challenge\WpfCrudApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll

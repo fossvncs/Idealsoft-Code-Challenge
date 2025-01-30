@@ -24,3 +24,5 @@ obj/
 *.msi
 *.msm
 *.msp
+
+.vs/

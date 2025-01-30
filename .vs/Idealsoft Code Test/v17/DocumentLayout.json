@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\createuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\createuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\createuserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\createuserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\createuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\createuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,20 +89,20 @@
               "RelativeDocumentMoniker": "WpfCrudApp\\EditUserWindow.xaml.cs",
               "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\EditUserWindow.xaml.cs",
               "RelativeToolTip": "WpfCrudApp\\EditUserWindow.xaml.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAqAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T22:17:50.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CreateUserWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\CreateUserWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfCrudApp\\CreateUserWindow.xaml.cs",
               "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\CreateUserWindow.xaml.cs",
               "RelativeToolTip": "WpfCrudApp\\CreateUserWindow.xaml.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowDwAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T22:17:40.066Z",
               "EditorCaption": ""
@@ -157,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CreateUserWindow.xaml",
               "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\CreateUserWindow.xaml",
               "RelativeDocumentMoniker": "WpfCrudApp\\CreateUserWindow.xaml",
