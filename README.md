@@ -4,13 +4,20 @@ code test interview
 BIBLIOTECAS UTILIZADAS: 
 
 System.Net.Http.Json
+
 Microsoft.EntityFrameworkCore
+
 Microsoft.EntityFrameworkCore.InMemory
+
 Microsoft.EntityFrameworkCore.Tools
+
 Newtonsoft.Json
+
 Swashbuckle.AspNetCore
 
+<h1>
 COMMENTS:
+</h1>
 
 (certifique-se de colocar ambos os projetos web api e WpfCrudApp como projetos de inicialização)
 
@@ -22,4 +29,4 @@ como nao foi especificado qual banco de dados utilizar, acredito que a melhor op
 
 * erros e exceções controladas com try catch na API
 
-* retorna sempre uma ApiResponse<T> genérica
+* retorna sempre uma ApiResponse<T> criada para normalizar o output da api
