@@ -1,28 +1,16 @@
-# Windows
-Thumbs.db
-ehthumbs.db
+# Pasta de build e temporários
+bin/
+obj/
+.vscode/
+.idea/
 *.user
 *.suo
-*.userosscache
-*.sln.docstates
+*.cache
+*.vs
+*.vscode
+*.db
+*.log
 
-# Visual Studio for Mac
-.vscode/
-
-# ASP.NET
-/bin/
-obj/
-
-# NPM packages
-/node_modules/
-
-# Rider
-.idea/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-.vs/
+# Configuração do Rider/ReSharper
+*.DotSettings
+*.DotSettings.user
