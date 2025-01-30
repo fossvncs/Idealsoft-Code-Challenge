@@ -21,11 +21,13 @@ COMMENTS:
 
 (certifique-se de colocar ambos os projetos web api e WpfCrudApp como projetos de inicialização)
 
-como nao foi especificado qual banco de dados utilizar, acredito que a melhor opção seria o banco de dados em memória, visto que a aplicação é somente um teste de código e não teria problema.
+como não foi especificado qual banco de dados utilizar, pensei que a melhor opção seria o banco de dados em memória, visto que a aplicação é apenas um teste de código.
 
-* não foi adicionado um molde de número de telefone (a string é livre)
+como se trata de um banco de dados em memória, todos os dados são perdidos ao fechar a aplicação. por isso criei uma seed que insere dados fictícios no banco de dados (inMemoryDatabase) para simplificar a navegação na aplicação WPF.
 
-* não foi adicionado validação de números duplicados
+a migração para um banco de dados sql não seria um trabalho, visto que as entidades e a estrutura do banco de dados foram criadas com o entity framework.
+
+a respeito da aplicação wpf, tentei utilizar alguns frameworks para estilização (material design) mas todos pareciam estar descontinuados para essa versão do .net, então criei uma interface simples e sem muitos detalhes.
 
 * erros e exceções controladas com try catch na API
 
