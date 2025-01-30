@@ -33,6 +33,9 @@ namespace WpfCrudApp.ViewModels
 
         public async Task LoadUsers()
         {
+            // atrasar a execução por 2 segundos para garantir que a API tenha tempo de inicializar
+            await Task.Delay(2000);
+
             var response = await _httpClient.GetAsync("GetUsers");
             if (response.IsSuccessStatusCode)
             {

@@ -3,32 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\createuserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\createuserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\createuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\createuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\createuserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\createuserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6334E-EA90-4114-A115-6BF12956F35C}|Application\\Application.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\application\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C6334E-EA90-4114-A115-6BF12956F35C}|Application\\Application.csproj|solutionrelative:application\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C6334E-EA90-4114-A115-6BF12956F35C}|Application\\Application.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\application\\interfaces\\iuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C6334E-EA90-4114-A115-6BF12956F35C}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21280373-BABA-4E65-B2BF-AA1878FEA0DA}|Domain\\Domain.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21280373-BABA-4E65-B2BF-AA1878FEA0DA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636A1F3-DBD9-4183-B7B9-E3EBA25E2B91}|Infrastructure\\Infrastructure.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8636A1F3-DBD9-4183-B7B9-E3EBA25E2B91}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636A1F3-DBD9-4183-B7B9-E3EBA25E2B91}|Infrastructure\\Infrastructure.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\infrastructure\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8636A1F3-DBD9-4183-B7B9-E3EBA25E2B91}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636A1F3-DBD9-4183-B7B9-E3EBA25E2B91}|Infrastructure\\Infrastructure.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\infrastructure\\datainitialization\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8636A1F3-DBD9-4183-B7B9-E3EBA25E2B91}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\datainitialization\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636A1F3-DBD9-4183-B7B9-E3EBA25E2B91}|Infrastructure\\Infrastructure.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\infrastructure\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8636A1F3-DBD9-4183-B7B9-E3EBA25E2B91}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484DC46-D70E-4990-96A2-A70C1616334F}|Idealsoft Code Test\\WEB_API.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\idealsoft code test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484DC46-D70E-4990-96A2-A70C1616334F}|Idealsoft Code Test\\WEB_API.csproj|solutionrelative:idealsoft code test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484DC46-D70E-4990-96A2-A70C1616334F}|Idealsoft Code Test\\WEB_API.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\idealsoft code test\\shared\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484DC46-D70E-4990-96A2-A70C1616334F}|Idealsoft Code Test\\WEB_API.csproj|solutionrelative:idealsoft code test\\shared\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484DC46-D70E-4990-96A2-A70C1616334F}|Idealsoft Code Test\\WEB_API.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\idealsoft code test\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484DC46-D70E-4990-96A2-A70C1616334F}|Idealsoft Code Test\\WEB_API.csproj|solutionrelative:idealsoft code test\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\createuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\createuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\edituserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\edituserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|solutionrelative:wpfcrudapp\\edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71260AC1-507A-4EDB-AFEF-325A33BC9071}|WpfCrudApp\\WpfCrudApp.csproj|c:\\users\\vinic\\source\\repos\\idealsoft-code-challenge\\wpfcrudapp\\deleteuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -42,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,70 +114,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "WpfCrudApp\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "WpfCrudApp\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCMAAAAMAAAA",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfCrudApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfCrudApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:35:41.978Z",
+              "WhenOpened": "2025-01-30T06:57:47.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EditUserWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\EditUserWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfCrudApp\\EditUserWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\EditUserWindow.xaml.cs",
-              "RelativeToolTip": "WpfCrudApp\\EditUserWindow.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCcAAAAqAAAA",
+              "Title": "UserApplication.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Application\\UserApplication.cs",
+              "RelativeDocumentMoniker": "Application\\UserApplication.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Application\\UserApplication.cs",
+              "RelativeToolTip": "Application\\UserApplication.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:17:50.653Z",
+              "WhenOpened": "2025-01-30T06:50:13.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "IUserApplication.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Application\\Interfaces\\IUserApplication.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserApplication.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Application\\Interfaces\\IUserApplication.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:50:09.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:50:05.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:49:37.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:49:33.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\DataInitialization\\SeedData.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataInitialization\\SeedData.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\DataInitialization\\SeedData.cs",
+              "RelativeToolTip": "Infrastructure\\DataInitialization\\SeedData.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:49:29.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CreateUserWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\CreateUserWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfCrudApp\\CreateUserWindow.xaml.cs",
               "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\CreateUserWindow.xaml.cs",
               "RelativeToolTip": "WpfCrudApp\\CreateUserWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T22:17:40.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfCrudApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\ViewModels\\MainViewModel.cs*",
+              "RelativeToolTip": "WpfCrudApp\\ViewModels\\MainViewModel.cs*",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:35:41.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\App.xaml",
-              "RelativeDocumentMoniker": "WpfCrudApp\\App.xaml",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\App.xaml",
-              "RelativeToolTip": "WpfCrudApp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-29T21:45:02.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DeleteUserWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\DeleteUserWindow.xaml",
-              "RelativeDocumentMoniker": "WpfCrudApp\\DeleteUserWindow.xaml",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\DeleteUserWindow.xaml",
-              "RelativeToolTip": "WpfCrudApp\\DeleteUserWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-29T21:33:20.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "EditUserWindow.xaml",
               "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\EditUserWindow.xaml",
               "RelativeDocumentMoniker": "WpfCrudApp\\EditUserWindow.xaml",
@@ -157,15 +255,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Infrastructure\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:49:25.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\Program.cs",
+              "RelativeDocumentMoniker": "Idealsoft Code Test\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\Program.cs*",
+              "RelativeToolTip": "Idealsoft Code Test\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:48:48.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\Shared\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Idealsoft Code Test\\Shared\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\Shared\\ApiResponse.cs",
+              "RelativeToolTip": "Idealsoft Code Test\\Shared\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:48:43.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Idealsoft Code Test\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\Idealsoft Code Test\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Idealsoft Code Test\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:48:33.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditUserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\EditUserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfCrudApp\\EditUserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\EditUserWindow.xaml.cs",
+              "RelativeToolTip": "WpfCrudApp\\EditUserWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:17:50.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\App.xaml",
+              "RelativeDocumentMoniker": "WpfCrudApp\\App.xaml",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\App.xaml",
+              "RelativeToolTip": "WpfCrudApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T21:45:02.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteUserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\DeleteUserWindow.xaml",
+              "RelativeDocumentMoniker": "WpfCrudApp\\DeleteUserWindow.xaml",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\DeleteUserWindow.xaml",
+              "RelativeToolTip": "WpfCrudApp\\DeleteUserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T21:33:20.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "CreateUserWindow.xaml",
               "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\CreateUserWindow.xaml",
               "RelativeDocumentMoniker": "WpfCrudApp\\CreateUserWindow.xaml",
               "ToolTip": "C:\\Users\\vinic\\source\\repos\\Idealsoft-Code-Challenge\\WpfCrudApp\\CreateUserWindow.xaml",
               "RelativeToolTip": "WpfCrudApp\\CreateUserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-29T21:30:21.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T21:30:21.617Z"
             }
           ]
         }
