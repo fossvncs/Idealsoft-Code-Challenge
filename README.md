@@ -29,6 +29,8 @@ a migração para um banco de dados sql não seria um trabalho, visto que as ent
 
 a respeito da aplicação wpf, tentei utilizar alguns frameworks para estilização (material design) mas todos pareciam estar descontinuados para essa versão do .net, então criei uma interface simples e sem muitos detalhes.
 
+peço perdão pelos comentários bilíngues, alguns estão em português e outros em inglês.
+
 * erros e exceções controladas com try catch na API
 
 * retorna sempre uma ApiResponse<T> criada para normalizar o output da api
